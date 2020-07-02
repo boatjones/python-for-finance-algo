@@ -1,0 +1,13 @@
+Statsmodel Library Homepage
+https://www.statsmodels.org/stable/index.html
+
+Exponentially Weighted Moving Average (EWMA)
+https://www.investopedia.com/articles/07/ewma.asp
+
+Good page to explain ARIMA models
+https://people.duke.edu/~rnau/411arim3.htm
+
+Rules for ARIMA models
+https://people.duke.edu/~rnau/arimrule.htm
+
+https://stats.stackexchange.com/questions/44992/what-are-the-values-p-d-q-in-arima

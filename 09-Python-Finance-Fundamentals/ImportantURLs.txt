@@ -1,0 +1,30 @@
+Sharpe Ratio
+https://www.investopedia.com/terms/s/sharperatio.asp
+
+Types of Funds
+https://www.investopedia.com/terms/e/etf.asp
+https://www.investopedia.com/terms/m/mutualfund.asp
+https://www.investopedia.com/terms/h/hedgefund.asp
+
+Order Books
+https://www.investopedia.com/terms/o/order-book.asp
+
+HFT Front Running
+https://www.youtube.com/watch?v=0eqqCwhPlyU
+
+Short Selling
+https://www.investopedia.com/terms/s/shortselling.asp
+
+Capital Asset Pricing Model (CAPM)
+https://www.investopedia.com/terms/c/capm.asp
+
+Accounting Rate of Return for Stock Splits & Dividends
+https://www.investopedia.com/terms/a/arr.asp
+
+Efficient Market Hypothesis
+https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp
+
+Quantopian relevant link defining drawdowns
+https://www.investopedia.com/terms/d/drawdown.asp
+
+
